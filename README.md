@@ -1,0 +1,2 @@
+# niklas1347-Stalagmite-Simulation-Shape-Model
+The Shape Model allows the user to simulate the formation of Stalagmites with 4 input parameters: calcium concentration of the water drop, drip interval, cave temperature, and cave carbon-dioxide. The output Parameters are growth rate, equilibrium radius, excessive calcium concentration and the respective depth of the values. The Shape model is used at the example of the So-1 in the Sofular Cave, Turkey. The results and more information will be published in a paper. If the code is further used please cite this paper.
