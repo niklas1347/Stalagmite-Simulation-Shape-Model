@@ -3,7 +3,7 @@ The Shape Model allows the user to simulate the formation of stalagmites with 4 
 
 All codes are available in jupyter notebook and phyton.
 
-auxiliary_funcionts: additional functions which are needed to run the Shape Model
+auxiliary_funcionts: additional functions which are needed to run the Shape Model \
 plot_referenz_and_modify_stalagmite: algortihm to plot a stalagmite through the FLOW-Equations, additional function which starts growing in an equilibrium and some variations of these functions
 plot_comparsion_models: algorithm to plot the stalagmite with equal axises, additional functions to plot just the upper line for the FLOW-, GAUSS- and EXP-Equations
 plot_changes_in_cave: algorithm plot the stalagmite in the cave and to detect changes, addtional functions to get the values for a changing CO2 concentration in the cave
